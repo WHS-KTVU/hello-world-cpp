@@ -1,6 +1,6 @@
 #include <iostream>
 
 int main() {
-  // put your code here
+  std::cout << "Bada bing!\n";
   return 0;
 }
